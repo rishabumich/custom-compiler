@@ -1,0 +1,3 @@
+/Users/rishab/Desktop/PersonalProjects/custom-compiler/build/CMakeFiles/comp.dir
+/Users/rishab/Desktop/PersonalProjects/custom-compiler/build/CMakeFiles/edit_cache.dir
+/Users/rishab/Desktop/PersonalProjects/custom-compiler/build/CMakeFiles/rebuild_cache.dir

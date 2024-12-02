@@ -1,0 +1,6 @@
+return 80;
+
+TOKENS:
+RETURN
+INT_LIT => 80
+SEMI
